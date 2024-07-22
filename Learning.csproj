@@ -63,8 +63,8 @@
     <Compile Include="Program_Somela.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Loops\WhileLoop.cs" />
-    <Compile Include="Task\Operations\ArthimaticOperationResponse.cs" />
-    <Compile Include="Task\Operations\SwitchResponse.cs" />
+    <Compile Include="Task\Control Statements\ArthimaticOperationResponse.cs" />
+    <Compile Include="Task\Control Statements\SwitchResponse.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
