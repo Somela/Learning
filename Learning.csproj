@@ -65,6 +65,9 @@
     <Compile Include="Loops\WhileLoop.cs" />
     <Compile Include="Task\Control Statements\ArthimaticOperationResponse.cs" />
     <Compile Include="Task\Control Statements\SwitchResponse.cs" />
+    <Compile Include="Task\Loops\PrintTriangle_Reverse.cs" />
+    <Compile Include="Task\Loops\Print_0_InTriangle.cs" />
+    <Compile Include="Task\Loops\Print_123_triangle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
